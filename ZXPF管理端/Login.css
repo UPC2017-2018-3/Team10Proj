@@ -1,0 +1,11 @@
+﻿body {
+}
+#canvas{
+	display: inline-block;
+	z-index : -1;
+	position: absolute;
+} 
+#f{
+	margin-left: 15%;
+	width: 70%;
+}
